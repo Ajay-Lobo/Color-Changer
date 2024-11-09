@@ -9,4 +9,10 @@ This project is a simple React application that allows users to change the backg
 - Smooth color transition effect when changing colors.
 - Responsive layout for easy use on different screen sizes.
 
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **JavaScript (ES6+)**: The core language for writing the logic of the application.
+- **npm**: The package manager used to install project dependencies.
 
